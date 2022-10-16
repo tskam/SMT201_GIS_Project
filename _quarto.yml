@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "SMT201: GIS Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: overview.qmd
+        text: Overview
+      - href: proposal.qmd
+        text: Proposal
+      - href: methodology.qmd
+        text: Methodology
+      - href: findings.qmd
+        text: Results and Discussion
+    right:
+      - about.qmd  
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
