@@ -15,6 +15,6 @@ The tasks of this study are as follows:
 
 The area selected for this study is
 
-## Data 
+## Data
 
 The data sets used in this study are as follows:
