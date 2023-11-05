@@ -15,6 +15,12 @@ website:
         text: Methodology
       - href: findings.qmd
         text: Results and Discussion
+      - text: "Webmaps"
+        menu:
+        - text: "Punggol Pre-school distribution"
+          href: qgis2web/index.html
+        - text: "Punggol 3D model"
+          href: geoweb3D/index.html
     right:
       - about.qmd  
       
